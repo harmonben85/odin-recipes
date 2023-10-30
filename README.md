@@ -1,4 +1,4 @@
-This project is the creation of a basic website using only HTML.
+This project is the creation of a basic website using HTML and CSS.
 The website has a homepage with three links to web pages that have recipes for various foods.
 In this project I learned about using links and images in HTML,
 how to store the files needed to run a website using the command-line interface,
